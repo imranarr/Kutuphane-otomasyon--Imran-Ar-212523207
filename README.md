@@ -2,7 +2,7 @@
 
 ##  Kütüphane Otomasyonu
 
-## Projenin AmacıL
+## Projenin Amacı
 Okunan kitapları  unutmamayı sağlayan bir program. Kitabın türüne göre ayrı ayrı listeleyen bir program. Herkes için kişisel bir kütüphane 
 
 ## Motivasyon
