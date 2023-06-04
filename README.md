@@ -1,14 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
 
-## Not Alma Uygulaması
+##  Kütüphane Otomasyonu
 
-
-## Projenin Amacı
-Günlük hayatta herkes farklı şeylerle uğraşır. Kimisi işi için not alır, kimisi alış-veriş için not alır, kimisi özel bir anıyı not alır ve buna benzer birçok şey.
-Birçok uygulama arzu edilen gereksinimleri karşılamadığı için pazarda oldukça fazla not alma uygulaması var ve uygulamayı her türden insanın kullanabilmesi için bu projeyi yapmak istedim.
+## Projenin AmacıL
+Okunan kitapları  unutmamayı sağlayan bir program. Kitabın türüne göre ayrı ayrı listeleyen bir program. Herkes için kişisel bir kütüphane 
 
 ## Motivasyon
-Pazardaki birçok uygulama kişisel verileri kullanarak işlem yapıyor ben ise kişisel gizliliğe önem veriyorum ve buna inanıyorum. Kişisel gizliliğin önemini daha popüler bir hale getirme çabalarımdan dolayı böyle bir projeyle başlamak istedim.
+Okunan kitapları unutmamak adına geliştirmek istediğim bir program.
 
 ## Muhtemel veritabanı tabloları
-![image](https://user-images.githubusercontent.com/115786733/236684308-c6d5840b-7ac3-4e31-ac21-9ceb9e3fe2d2.png)
+![Ekran görüntüsü 2023-06-04 215553](https://github.com/Iskenderun-Technical-University/Not-Uygulamasi-Imran-Ar-212523207/assets/115786733/16521e51-7a9b-4b4d-a37c-bc4bc6f7f891)
